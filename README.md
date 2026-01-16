@@ -32,7 +32,8 @@ Building scalable and dynamic web applications
 
 
 #### 🛠️ Tools & Platforms
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/git.png"/> <img src="https://img.icons8.com/color/48/github.png"/> <img src="https://img.icons8.com/color/48/postman-api.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/git.png"/> <img src="https://img.icons8.com/color/48/github--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+
 
 
 ---
