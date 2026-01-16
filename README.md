@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Nehaa
+## Hi there 👋 It's me Nehaa Vairavel
 
 Full Stack Web Developer  
 Building scalable and dynamic web applications
@@ -22,28 +22,18 @@ Building scalable and dynamic web applications
 ### 🧩 Tech Stack
 
 #### 💻 Programming Languages
-<img src="https://img.icons8.com/color/48/c-programming.png"/> 
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img src="https://img.icons8.com/color/48/python.png"/> 
-<img src="https://img.icons8.com/color/48/javascript.png"/> 
+<img src="https://img.icons8.com/color/48/c-programming.png"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/javascript.png"/>
 
 #### 🎨 Frontend
-<img src="https://img.icons8.com/color/48/html-5.png"/> 
-<img src="https://img.icons8.com/color/48/css3.png"/> 
-<img src="https://img.icons8.com/color/48/bootstrap.png"/> 
-<img src="https://img.icons8.com/color/48/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/bootstrap.png"/> <img src="https://img.icons8.com/color/48/react-native.png"/>
 
 #### 🔧 Backend & Databases
-<img src="https://img.icons8.com/color/48/python.png"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/mongodb.png"/> 
+<img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/mongodb.png"/>
+
 
 #### 🛠️ Tools & Platforms
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img src="https://img.icons8.com/color/48/git.png"/> 
-<img src="https://img.icons8.com/color/48/github.png"/> 
-<img src="https://img.icons8.com/color/48/postman-api.png"/> 
-<img src="https://img.icons8.com/color/48/cloud.png"/> 
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/git.png"/> <img src="https://img.icons8.com/color/48/github.png"/> <img src="https://img.icons8.com/color/48/postman-api.png"/>
+
 
 ---
 
@@ -58,13 +48,6 @@ Building scalable and dynamic web applications
 
 - **Sign Language Recognition System**  
   Python • OpenCV • MediaPipe • Teachable Machine  
-
----
-
-### 📊 GitHub Stats
-![Nehaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaaVairavel&show_icons=true&theme=dark&hide=issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaaVairavel&layout=compact&theme=dark)
 
 ---
 
