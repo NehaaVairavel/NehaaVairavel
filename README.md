@@ -1,16 +1,76 @@
-## Hi there 👋
+## Hi there 👋 It's me Nehaa
 
-<!--
-**NehaaVairavel/NehaaVairavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer  
+Building scalable and dynamic web applications
 
-Here are some ideas to get you started:
+<img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on a **dynamic full stack web application with admin control**
+- 💻 Experience in **React, Flask, Java, MongoDB, MySQL**
+- 🌱 Learning advanced frontend patterns and backend best practices
+- 🛠️ Interested in building real-world, production-ready applications
+- 🤝 Open to collaboration on full stack and frontend projects
+
+---
+
+### 🌐 Portfolio & Profiles
+- 🔗 GitHub: https://github.com/NehaaVairavel  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nehaavairavel21/
+
+---
+
+### 🧩 Tech Stack
+
+#### 💻 Programming Languages
+<img src="https://img.icons8.com/color/48/c-programming.png"/> 
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
+<img src="https://img.icons8.com/color/48/python.png"/> 
+<img src="https://img.icons8.com/color/48/javascript.png"/> 
+
+#### 🎨 Frontend
+<img src="https://img.icons8.com/color/48/html-5.png"/> 
+<img src="https://img.icons8.com/color/48/css3.png"/> 
+<img src="https://img.icons8.com/color/48/bootstrap.png"/> 
+<img src="https://img.icons8.com/color/48/react-native.png"/> 
+
+#### 🔧 Backend & Databases
+<img src="https://img.icons8.com/color/48/python.png"/> 
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
+<img src="https://img.icons8.com/color/48/mongodb.png"/> 
+
+#### 🛠️ Tools & Platforms
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
+<img src="https://img.icons8.com/color/48/git.png"/> 
+<img src="https://img.icons8.com/color/48/github.png"/> 
+<img src="https://img.icons8.com/color/48/postman-api.png"/> 
+<img src="https://img.icons8.com/color/48/cloud.png"/> 
+
+---
+
+### 📌 Projects Highlights
+- **Dynamic Full Stack Web Application (Heavy Horizon)**  
+  React • Flask • MongoDB • Cloudinary  
+  Role-based authentication, admin dashboard, CRUD operations
+
+- **Website-Integrated Chatbot**  
+  Flask • Google Sheets API  
+  Real-time chatbot using Google Sheets as backend database
+
+- **Sign Language Recognition System**  
+  Python • OpenCV • MediaPipe • Teachable Machine  
+
+---
+
+### 📊 GitHub Stats
+![Nehaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaaVairavel&show_icons=true&theme=dark&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaaVairavel&layout=compact&theme=dark)
+
+---
+
+### 🚀 What I Focus On
+- Clean and maintainable code  
+- Full stack application architecture  
+- Continuous learning and improvement  
+- Solving real-world problems through technology  
+
