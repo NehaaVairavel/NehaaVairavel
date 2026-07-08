@@ -1,60 +1,115 @@
-## Hi there 👋 It's me Nehaa Vairavel
+<h1 align="center">Nehaa Vairavel</h1>
 
-Full Stack Web Developer  
-Building scalable and dynamic web applications
+<p align="center">
+  Full Stack Developer • AI & ML Engineer
+</p>
 
-<img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<p align="center">
+  Building scalable web applications, intelligent systems, and real-world software solutions.
+</p>
 
-- 🔭 Currently working on a **dynamic full stack web application with admin control**
-- 💻 Experience in **React, Flask, Java, MongoDB, MySQL**
-- 🌱 Learning advanced frontend patterns and backend best practices
-- 🛠️ Interested in building real-world, production-ready applications
-- 🤝 Open to collaboration on full stack and frontend projects
-
----
-
-### 🌐 Portfolio & Profiles
-- 🔗 GitHub: https://github.com/NehaaVairavel  
-- 🔗 LinkedIn: https://www.linkedin.com/in/nehaavairavel21/
+<p align="center">
+  <a href="https://github.com/NehaaVairavel">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nehaavairavel21/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Nehaa-Vairavel/">LeetCode</a>
+</p>
 
 ---
 
-### 🧩 Tech Stack
+## About Me
 
-#### 💻 Programming Languages
-<img src="https://img.icons8.com/color/48/c-programming.png"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/javascript.png"/>
+Final Year Computer Science & Engineering (AI & ML) student with experience in Full Stack Development, REST API Development, Database Design, and Machine Learning.
 
-#### 🎨 Frontend
-<img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/bootstrap.png"/> <img src="https://img.icons8.com/color/48/react-native.png"/>
-
-#### 🔧 Backend & Databases
-<img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/mongodb.png"/>
-
-
-#### 🛠️ Tools & Platforms
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/git.png"/> <img src="https://img.icons8.com/color/48/github--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-
-
+I enjoy designing scalable applications, building production-ready systems, and solving complex engineering problems through clean and efficient software solutions.
 
 ---
 
-### 📌 Projects Highlights
-- **Dynamic Full Stack Web Application (Heavy Horizon)**  
-  React • Flask • MongoDB • Cloudinary  
-  Role-based authentication, admin dashboard, CRUD operations
+## Experience
 
-- **Website-Integrated Chatbot**  
-  Flask • Google Sheets API  
-  Real-time chatbot using Google Sheets as backend database
+### Freelance Full Stack Developer — Swing360Exim (Dubai)
 
-- **Sign Language Recognition System**  
-  Python • OpenCV • MediaPipe • Teachable Machine  
+- Developed a business platform with 12+ operational modules
+- Engineered 40+ REST APIs with authentication and authorization
+- Improved application performance through database optimization and Cloudflare integration
+
+### Freelance Full Stack Developer — Heavy Horizon
+
+- Built full-stack applications using React.js, Flask, and MongoDB
+- Developed backend services and workflow automation systems
+- Implemented secure role-based access control and authentication
+
+### MERN Stack Intern — Sparkout Tech Pvt Ltd
+
+- Developed React.js components and responsive web interfaces
+- Integrated REST APIs and frontend modules
+- Collaborated in Agile development workflows using Git and GitHub
 
 ---
 
-### 🚀 What I Focus On
-- Clean and maintainable code  
-- Full stack application architecture  
-- Continuous learning and improvement  
-- Solving real-world problems through technology  
+## Featured Projects
 
+### Tamil Sign Language Recognition System
+
+Real-time gesture recognition system achieving **99.64% accuracy** using Machine Learning and MediaPipe.
+
+**Tech:** Python • OpenCV • MediaPipe • Scikit-Learn
+
+### Virtual Mandi
+
+ONDC-inspired marketplace platform supporting buyers, sellers, authentication, and product workflows.
+
+**Tech:** React.js • Flask • MongoDB • REST APIs
+
+### Business Automation Platforms
+
+Developed enterprise applications focused on workflow automation, dashboard management, and operational efficiency.
+
+**Tech:** React.js • Flask • MongoDB • MySQL
+
+---
+
+## Technical Skills
+
+**Languages**  
+Java • Python • JavaScript
+
+**Frontend**  
+React.js • HTML5 • CSS3 • Bootstrap
+
+**Backend**  
+Flask • REST APIs
+
+**Databases**  
+MongoDB • MySQL
+
+**Tools**  
+Git • GitHub • Postman • VS Code
+
+**Core Concepts**  
+DSA • OOP • DBMS • OS • CN
+
+---
+
+## Highlights
+
+- CGPA: 9.04
+- Freelance Full Stack Developer
+- MERN Stack Intern
+- 60+ DSA Problems Solved
+- Core Team Member, GDG On Campus
+
+---
+
+## Current Focus
+
+- Full Stack Development
+- Software Engineering
+- Backend Systems
+- Machine Learning Applications
+- Scalable API Architecture
+
+---
+
+<p align="center">
+  <b>Transforming ideas into scalable software solutions.</b>
+</p>
